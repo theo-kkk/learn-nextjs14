@@ -1,3 +1,3 @@
-export default function Tomato() {
-  return <h1>hello nextjs</h1>;
+export default function Page() {
+  return <h1>Hello!</h1>;
 }
