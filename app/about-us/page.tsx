@@ -1,9 +1,10 @@
-import Avatar from "./components/avatar";
+import Navigation from "../../components/navigation";
 
 export default function AboutUs() {
   return (
-    <h1>
-      Hello About-us <Avatar />
-    </h1>
+    <div>
+      <Navigation />
+      <h1>Hello About-us</h1>
+    </div>
   );
 }
